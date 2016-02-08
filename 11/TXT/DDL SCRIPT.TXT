@@ -1,0 +1,10 @@
+
+
+
+
+
+alter table TRN_DTT_CUSTOMER  add column CUS_MOB CHARACTER VARYING(50);
+alter table HST_TRN_DTT_CUSTOMER  add column CUS_MOB CHARACTER VARYING(50);
+
+
+
